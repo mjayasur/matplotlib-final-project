@@ -16,3 +16,5 @@ With a slidedeck, a jupyter notebook assignment, and a quiz, this repo is a full
   * Our assignment requires students to use both figure level and axes level plots, and our notes make this distinction a fixture to make sure they understand the two types of plotting functions in seaborn.
 * Exposure to working with images in Matplotlib
   * Our notes give students a pretty good exposure to matplotlib's image libraries and allow them to be ready for using matplotlib for image processing.
+## Navigating this Directory
+The repo contains a slidedeck for lecturing (.pdf) and notes (.pdf). The project is located in .ipynb and solutions are in .ipynb. In addition, there is a quiz jupyter notebook in .ipynb.
