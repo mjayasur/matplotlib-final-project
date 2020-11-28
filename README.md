@@ -17,4 +17,7 @@ With a slidedeck, a jupyter notebook assignment, and a quiz, this repo is a full
 * Exposure to working with images in Matplotlib
   * Our notes give students a pretty good exposure to matplotlib's image libraries and allow them to be ready for using matplotlib for image processing.
 ## Navigating this Directory
-The repo contains a slidedeck for lecturing (.pdf) and notes (.pdf). The project is located in .ipynb and solutions are in .ipynb. In addition, there is a quiz jupyter notebook in .ipynb.
+final_matplotlib_project_notes.pdf - pdf of notes
+final_matplotlib_project_sols.ipynb - iPython notebook with the project AND its solutions
+matplotlib_slidedeck.pdf - slidedeck for use in lectures
+titanic_train.csv - dataset for use in project
